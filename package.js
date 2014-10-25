@@ -1,9 +1,8 @@
 
 Package.describe({
   summary: "Page trasition effects.",
-  version: "2.1.0",
+  version: "3.1.0",
   name: "jelena:page-transitions",
-  git: "https://github.com/jelenajjo/page-transitions.git"
 });
 
 
