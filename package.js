@@ -2,7 +2,7 @@
 Package.describe({
   summary: "Page trasition effects.",
   version: "3.1.0",
-  name: "jelena:page-transitions",
+  name: "jelena:page-transitions-test",
 });
 
 
